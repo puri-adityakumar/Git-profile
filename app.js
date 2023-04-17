@@ -1,4 +1,4 @@
-// Uses fetch to request HTTPs calls
+//Uses fetch to request HTTPs calls
 
 const APIURL = "https://api.github.com/users/";
 
